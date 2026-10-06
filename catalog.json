@@ -6,7 +6,7 @@
   "business": {
     "name": "Maha Pickles",
     "logo": {
-      "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-logo-primary.jpeg",
+      "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/maha-logo-primary.jpeg",
       "alt": "Maha Pickles \u2014 homemade pickles brand logo"
     },
     "description": "A little spice. A lot of home. Explore pickles, podis, and little everyday favourites.",
@@ -19,7 +19,7 @@
     "timezone": "Asia/Kolkata",
     "socialLinks": [],
     "secondaryLogo": {
-      "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-logo-badge.jpeg",
+      "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/maha-logo-badge.jpeg",
       "alt": "Maha Pickles circular homemade brand badge"
     }
   },
@@ -37,7 +37,7 @@
       "title": "A little spice.\nA lot of home.",
       "description": "Bold pickles, comforting podis, and familiar favourites. Make every meal feel a little closer to home.",
       "image": {
-        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+        "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/maha-table.jpg",
         "alt": "AI-created editorial image of mango and gongura pickle bowls on a linen-covered table"
       }
     },
@@ -66,7 +66,7 @@
       "name": "Pickles",
       "description": "Bold, tangy, and full of character.",
       "image": {
-        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+        "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/maha-table.jpg",
         "alt": "AI-created editorial image of mango and gongura pickle bowls on a linen-covered table"
       },
       "order": 0,
@@ -78,7 +78,7 @@
       "name": "Podis & Karam",
       "description": "Your everyday meal, made special.",
       "image": {
-        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/podi-table.jpg",
+        "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/podi-table.jpg",
         "alt": "AI-created editorial image of Kandi podi spice powder in a ceramic bowl"
       },
       "order": 1,
@@ -90,7 +90,7 @@
       "name": "Snacks",
       "description": "For tea-time and anytime.",
       "image": {
-        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/snacks-table.jpg",
+        "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/snacks-table.jpg",
         "alt": "AI-created editorial image of Golden murukku spirals in a ceramic bowl"
       },
       "order": 2,
@@ -102,7 +102,7 @@
       "name": "Sweets",
       "description": "Little moments of sweetness.",
       "image": {
-        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/sweets-table.jpg",
+        "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/sweets-table.jpg",
         "alt": "AI-created editorial image of Jaggery-glazed bellam gavvalu in a ceramic bowl"
       },
       "order": 3,
@@ -121,11 +121,11 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/mango.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/mango.svg",
           "alt": "Avakaya Mango jar \u2014 illustrative sample packaging"
         },
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/maha-table.jpg",
           "alt": "AI-created serving suggestion for Avakaya Mango"
         }
       ],
@@ -175,7 +175,7 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/gongura.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/gongura.svg",
           "alt": "Gongura Pickle jar \u2014 illustrative sample packaging"
         }
       ],
@@ -224,7 +224,7 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/tomato.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/tomato.svg",
           "alt": "Tomato Pickle jar \u2014 illustrative sample packaging"
         }
       ],
@@ -273,7 +273,7 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/lemon.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/lemon.svg",
           "alt": "Lemon Pickle jar \u2014 illustrative sample packaging"
         }
       ],
@@ -322,11 +322,11 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/karam.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/karam.svg",
           "alt": "Kandi Podi jar \u2014 illustrative sample packaging"
         },
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/podi-table.jpg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/podi-table.jpg",
           "alt": "AI-created serving suggestion for Kandi Podi"
         }
       ],
@@ -375,7 +375,7 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/garlic.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/garlic.svg",
           "alt": "Garlic Karam jar \u2014 illustrative sample packaging"
         }
       ],
@@ -424,11 +424,11 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/murukku.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/murukku.svg",
           "alt": "Murukku jar \u2014 illustrative sample packaging"
         },
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/snacks-table.jpg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/snacks-table.jpg",
           "alt": "AI-created serving suggestion for Murukku"
         }
       ],
@@ -477,11 +477,11 @@
       ],
       "images": [
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/sweet.svg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/sweet.svg",
           "alt": "Bellam Gavvalu jar \u2014 illustrative sample packaging"
         },
         {
-          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/sweets-table.jpg",
+          "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/sweets-table.jpg",
           "alt": "AI-created serving suggestion for Bellam Gavvalu"
         }
       ],
@@ -526,7 +526,7 @@
       "title": "Good food tastes better together.",
       "description": "Build your favourites box. Use WELCOME10 on eligible orders of \u20b9500 or more.",
       "image": {
-        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+        "src": "https://Kamal0078k.github.io/maha-pickels-catalog/assets/maha-table.jpg",
         "alt": "AI-created editorial image of mango and gongura pickle bowls on a linen-covered table"
       },
       "destination": "/products",
