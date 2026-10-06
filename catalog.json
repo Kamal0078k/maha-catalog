@@ -1,0 +1,572 @@
+{
+  "schemaVersion": 1,
+  "revision": "initial-production-2026-09-19",
+  "updatedAt": "2026-09-19T00:00:00+05:30",
+  "demo": false,
+  "business": {
+    "name": "Maha Pickles",
+    "logo": {
+      "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-logo-primary.jpeg",
+      "alt": "Maha Pickles \u2014 homemade pickles brand logo"
+    },
+    "description": "A little spice. A lot of home. Explore pickles, podis, and little everyday favourites.",
+    "whatsapp": "918686143111",
+    "email": "",
+    "phone": "",
+    "delivery": "Delivery charges and final availability are confirmed on WhatsApp.",
+    "currency": "INR",
+    "locale": "en-IN",
+    "timezone": "Asia/Kolkata",
+    "socialLinks": [],
+    "secondaryLogo": {
+      "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-logo-badge.jpeg",
+      "alt": "Maha Pickles circular homemade brand badge"
+    }
+  },
+  "appearance": {
+    "primary": "#9d3426",
+    "background": "#fffaf1",
+    "accent": "#e9b949",
+    "font": "serif",
+    "radius": 16,
+    "splash": true
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "FROM OUR TABLE TO YOURS",
+      "title": "A little spice.\nA lot of home.",
+      "description": "Bold pickles, comforting podis, and familiar favourites. Make every meal feel a little closer to home.",
+      "image": {
+        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+        "alt": "AI-created editorial image of mango and gongura pickle bowls on a linen-covered table"
+      }
+    },
+    "trendingIds": [
+      "mango",
+      "gongura",
+      "tomato",
+      "karam"
+    ],
+    "featuredCategoryIds": [
+      "pickles",
+      "podis",
+      "snacks",
+      "sweets"
+    ],
+    "sections": {
+      "announcements": true,
+      "trending": true,
+      "categories": true
+    }
+  },
+  "categories": [
+    {
+      "id": "pickles",
+      "slug": "pickles",
+      "name": "Pickles",
+      "description": "Bold, tangy, and full of character.",
+      "image": {
+        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+        "alt": "AI-created editorial image of mango and gongura pickle bowls on a linen-covered table"
+      },
+      "order": 0,
+      "visible": true
+    },
+    {
+      "id": "podis",
+      "slug": "podis",
+      "name": "Podis & Karam",
+      "description": "Your everyday meal, made special.",
+      "image": {
+        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/podi-table.jpg",
+        "alt": "AI-created editorial image of Kandi podi spice powder in a ceramic bowl"
+      },
+      "order": 1,
+      "visible": true
+    },
+    {
+      "id": "snacks",
+      "slug": "snacks",
+      "name": "Snacks",
+      "description": "For tea-time and anytime.",
+      "image": {
+        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/snacks-table.jpg",
+        "alt": "AI-created editorial image of Golden murukku spirals in a ceramic bowl"
+      },
+      "order": 2,
+      "visible": true
+    },
+    {
+      "id": "sweets",
+      "slug": "sweets",
+      "name": "Sweets",
+      "description": "Little moments of sweetness.",
+      "image": {
+        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/sweets-table.jpg",
+        "alt": "AI-created editorial image of Jaggery-glazed bellam gavvalu in a ceramic bowl"
+      },
+      "order": 3,
+      "visible": true
+    }
+  ],
+  "products": [
+    {
+      "id": "mango",
+      "slug": "mango",
+      "name": "Avakaya Mango",
+      "description": "The classic, with a generous kick.",
+      "longDescription": "The classic, with a generous kick. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "pickles"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/mango.svg",
+          "alt": "Avakaya Mango jar \u2014 illustrative sample packaging"
+        },
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+          "alt": "AI-created serving suggestion for Avakaya Mango"
+        }
+      ],
+      "tags": [
+        "Bestseller",
+        "Spicy"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "mango-250",
+          "sku": "MAHA-MANGO-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 18000,
+          "mrp": 20700,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "mango-500",
+          "sku": "MAHA-MANGO-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 32400,
+          "mrp": 36000,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    },
+    {
+      "id": "gongura",
+      "slug": "gongura",
+      "name": "Gongura Pickle",
+      "description": "Tangy leaves. Unmistakably Andhra.",
+      "longDescription": "Tangy leaves. Unmistakably Andhra. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "pickles"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/gongura.svg",
+          "alt": "Gongura Pickle jar \u2014 illustrative sample packaging"
+        }
+      ],
+      "tags": [
+        "Tangy"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "gongura-250",
+          "sku": "MAHA-GONGURA-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 16000,
+          "mrp": 18400,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "gongura-500",
+          "sku": "MAHA-GONGURA-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 28800,
+          "mrp": 32000,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    },
+    {
+      "id": "tomato",
+      "slug": "tomato",
+      "name": "Tomato Pickle",
+      "description": "A little sweet. A little fiery.",
+      "longDescription": "A little sweet. A little fiery. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "pickles"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/tomato.svg",
+          "alt": "Tomato Pickle jar \u2014 illustrative sample packaging"
+        }
+      ],
+      "tags": [
+        "Medium spice"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "tomato-250",
+          "sku": "MAHA-TOMATO-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 15000,
+          "mrp": 17250,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "tomato-500",
+          "sku": "MAHA-TOMATO-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 27000,
+          "mrp": 30000,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    },
+    {
+      "id": "lemon",
+      "slug": "lemon",
+      "name": "Lemon Pickle",
+      "description": "Sunshine in every spoonful.",
+      "longDescription": "Sunshine in every spoonful. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "pickles"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/lemon.svg",
+          "alt": "Lemon Pickle jar \u2014 illustrative sample packaging"
+        }
+      ],
+      "tags": [
+        "Tangy"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "lemon-250",
+          "sku": "MAHA-LEMON-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 14000,
+          "mrp": 16099,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "lemon-500",
+          "sku": "MAHA-LEMON-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 25200,
+          "mrp": 28000,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    },
+    {
+      "id": "karam",
+      "slug": "karam",
+      "name": "Kandi Podi",
+      "description": "A comforting sprinkle of flavour.",
+      "longDescription": "A comforting sprinkle of flavour. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "podis"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/karam.svg",
+          "alt": "Kandi Podi jar \u2014 illustrative sample packaging"
+        },
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/podi-table.jpg",
+          "alt": "AI-created serving suggestion for Kandi Podi"
+        }
+      ],
+      "tags": [
+        "Customer favourite"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "karam-250",
+          "sku": "MAHA-KARAM-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 12000,
+          "mrp": 13799,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "karam-500",
+          "sku": "MAHA-KARAM-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 21600,
+          "mrp": 24000,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    },
+    {
+      "id": "garlic",
+      "slug": "garlic",
+      "name": "Garlic Karam",
+      "description": "Big flavour for everyday meals.",
+      "longDescription": "Big flavour for everyday meals. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "podis"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/garlic.svg",
+          "alt": "Garlic Karam jar \u2014 illustrative sample packaging"
+        }
+      ],
+      "tags": [
+        "Spicy"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "garlic-250",
+          "sku": "MAHA-GARLIC-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 13000,
+          "mrp": 14949,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "garlic-500",
+          "sku": "MAHA-GARLIC-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 23400,
+          "mrp": 26000,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    },
+    {
+      "id": "murukku",
+      "slug": "murukku",
+      "name": "Murukku",
+      "description": "Crunch worth coming back for.",
+      "longDescription": "Crunch worth coming back for. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "snacks"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/murukku.svg",
+          "alt": "Murukku jar \u2014 illustrative sample packaging"
+        },
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/snacks-table.jpg",
+          "alt": "AI-created serving suggestion for Murukku"
+        }
+      ],
+      "tags": [
+        "Crunchy"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "murukku-250",
+          "sku": "MAHA-MURUKKU-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 11000,
+          "mrp": 12649,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "murukku-500",
+          "sku": "MAHA-MURUKKU-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 19800,
+          "mrp": 22000,
+          "available": true,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    },
+    {
+      "id": "sweet",
+      "slug": "sweet",
+      "name": "Bellam Gavvalu",
+      "description": "A sweet little taste of tradition.",
+      "longDescription": "A sweet little taste of tradition. Pair it with your favourite meal and make a little room for a taste of home. This is a sample product; recipe and food information will be confirmed before sale.",
+      "categoryIds": [
+        "sweets"
+      ],
+      "images": [
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/sweet.svg",
+          "alt": "Bellam Gavvalu jar \u2014 illustrative sample packaging"
+        },
+        {
+          "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/sweets-table.jpg",
+          "alt": "AI-created serving suggestion for Bellam Gavvalu"
+        }
+      ],
+      "tags": [
+        "Sweet"
+      ],
+      "visible": true,
+      "food": {},
+      "variants": [
+        {
+          "id": "sweet-250",
+          "sku": "MAHA-SWEET-250",
+          "label": "250 g",
+          "netQuantity": 250,
+          "unit": "g",
+          "price": 15000,
+          "mrp": 17250,
+          "available": false,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        },
+        {
+          "id": "sweet-500",
+          "sku": "MAHA-SWEET-500",
+          "label": "500 g",
+          "netQuantity": 500,
+          "unit": "g",
+          "price": 27000,
+          "mrp": 30000,
+          "available": false,
+          "minQuantity": 1,
+          "step": 1,
+          "maxQuantity": 10
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "id": "table",
+      "title": "Good food tastes better together.",
+      "description": "Build your favourites box. Use WELCOME10 on eligible orders of \u20b9500 or more.",
+      "image": {
+        "src": "https://KamalArukala.github.io/maha-pickels-catalog/assets/maha-table.jpg",
+        "alt": "AI-created editorial image of mango and gongura pickle bowls on a linen-covered table"
+      },
+      "destination": "/products",
+      "active": true
+    }
+  ],
+  "offers": [
+    {
+      "id": "mango-offer",
+      "title": "Mango special \u00b7 5% off",
+      "target": {
+        "type": "product",
+        "ids": [
+          "mango"
+        ]
+      },
+      "discount": {
+        "type": "percentage",
+        "value": 5
+      },
+      "active": true
+    }
+  ],
+  "coupons": [
+    {
+      "id": "welcome",
+      "title": "Welcome saving",
+      "code": "WELCOME10",
+      "description": "10% off orders from \u20b9500, up to \u20b9150. Best single discount applies.",
+      "target": {
+        "type": "store",
+        "ids": []
+      },
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "cap": 15000
+      },
+      "minimumSubtotal": 50000,
+      "active": true
+    }
+  ]
+}

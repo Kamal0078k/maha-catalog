@@ -1,0 +1,12 @@
+{
+  "name": "maha-pickels-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "catalog:validate": "node scripts/validate-catalog.mjs"
+  },
+  "dependencies": {
+    "zod": "^4.6.5"
+  }
+}
