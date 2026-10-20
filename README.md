@@ -16,7 +16,7 @@ The `vendor/catalog-contract` directory is the checked-in 1.0.0 release snapshot
 Create this as a private repository, push the contents to `main`, and enable GitHub Pages with **GitHub Actions** as the source. Replace the example owner in all published image URLs and in the editor configuration before the first live save. The Pages URL is:
 
 ```text
-https://<github-owner>.github.io/maha-pickels-catalog/catalog.json
+https://<github-owner>.github.io/maha-catalog/catalog.json
 ```
 
 The fine-grained editor token only needs repository contents read/write on this one repository. It must not be put in the storefront or any `VITE_*` variable.
